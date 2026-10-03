@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Mark No="1">
+			<Mark_001 MarkName="5mm_CIRCLE_TRIAL" Comment="TRIAL_ONLY" DatabaseNo="0" LibraryUse="0" LibraryFolder="0" LibraryPath="" />
+			<Mark_011 MarkType="1" Shape="0" Exec="0" OutSize="   5.000" />
+			<Mark_100 Surface="1" Threshold="150" Tolerance="30" SearchAreaX=" 4.00" SearchAreaY=" 4.00" Sequence="0" />
+			<Mark_200 LightingOuter="2" LightingInner="2" LightingDrop="2" LightingIROuter="0" LightingIRInner="0" FilterInner="3" FilterOuter="3" />
+		</Mark>
+	

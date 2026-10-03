@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- From saved native PANEL_MARK_TEST; an offline example, not a production recipe. -->
+<Mark No="2">
+  <Mark_001 MarkName="BAD_TEST" Comment="" DatabaseNo="0" LibraryUse="0" LibraryFolder="0" LibraryPath="" />
+  <Mark_050 MarkType="2" SearchAreaX="4.50" SearchAreaY="4.50" />
+  <Mark_110 Surface="1" Threshold="100" />
+  <Mark_201 LightingOuter="2" LightingInner="2" LightingDrop="2" LightingIROuter="2" LightingIRInner="2" />
+</Mark>

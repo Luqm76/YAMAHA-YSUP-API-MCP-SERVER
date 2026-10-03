@@ -1,0 +1,2 @@
+# Preserve the exact bytes recorded in PACKAGE_MANIFEST.json across Git checkouts.
+* -text

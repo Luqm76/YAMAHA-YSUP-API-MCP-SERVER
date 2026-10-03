@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcbDataFile>
+<LastEditing Date="2026/09/28" Time="16:04:42" VersionNo="2">
+	<SetupMachine No=" 1" Name="YSM20" ID="281" />
+</LastEditing>
+<Machine No=" 1" MachineType="40" SubMachineType="0" Version="YSUP V5.16STD R3.000">
+	<Property LastEditingDate="2026/09/28" LastEditingTime="16:04:42" VersionNo="2" />
+	<Production>
+		<ProductGroup No="1" Lane="1" />
+	</Production>
+	<Variation VariationPatternTable="" MasterBoardName="" LastCreatingDate="" LastCreatingTime="" />
+	<Board>
+		<Board_000 OriginX="-110.000" OriginY="   0.000" SizeX=" 110.000" SizeY=" 150.000" BlockCount="  0" SizeZ="1.600" PcbWarpHeight="0" TransOffsetU="0.000" TransOffsetT1="0.000" TransOffsetT2="0.000" BoardStandardCT=" 0.00" BoardStandardPlanTime="    0" CarriedPosCheck="0" CarriedPosCheckRetry="0" CarriedPosCheckValue=" 0.0" CarriedPosCheckDetail="0" CarriedPosCheckMark="  0" CarriedPosCheckMarkX="   0.000" CarriedPosCheckMarkY="   0.000" BoardEdgeOffsetDistanceLowerLeft="   0.000" BoardEdgeOffsetDistanceLowerRight="   0.000" BoardEdgeOffsetDistanceUpperLeft="   0.000" BoardEdgeOffsetDistanceUpperRight="   0.000" MountStagePosition="0" LaserHeightUpperLimit="   1.000" LaserHeightLowerLimit="  -2.000" LightingLevel="0" />
+		<Board_101 PcbFixWay="1" ConvPreFixTimer="   0.500" TransHeight="15" ConvTimer="   0.000" YSpeed="3" TransMode="0" ConvSpeed="0" PartHeight=" 0.1" ConvTransWay="0" TransferOneByOne="0" />
+		<Board_102 MountExec="0" VacCheck="0" Alignment="0" CoPlanarity="0" PrePick="1" RetrySeq="1" SkipRetry="0" PositionFreeSetup="0" TrayPre="0" FixedComp="0" Correct3A="0" InterfereAvoidance="0" MountSequenceMethod="0" HighAccMode="1" />
+		<Board_103 BadSortA="0" BadSortB="0" BadSortC="0" />
+		<Board_104 Comment="" />
+		<Board_105 PreDisp="1" DotDisp="1" DotCheck="0" Refresh="0" PosCorDisp="1" PosCorPreDisp="0" />
+		<Board_106 SpecialFunction="0" />
+		<Board_107 PushUpPinSetupManagement="0" />
+		<Board_108 HeadA1="1" HeadA2="1" HeadA3="1" HeadA4="1" HeadA5="1" HeadA6="1" HeadA7="1" HeadA8="0" HeadA9="0" HeadA10="0" HeadA11="33" HeadA12="33" HeadA13="33" HeadA14="33" HeadA15="33" HeadA16="33" />
+		<Board_109 HeadB1="1" HeadB2="1" HeadB3="1" HeadB4="1" HeadB5="1" HeadB6="1" HeadB7="1" HeadB8="1" HeadB9="1" HeadB10="1" HeadB11="-1" HeadB12="-1" HeadB13="-1" HeadB14="-1" HeadB15="-1" HeadB16="-1" />
+		<Board_110 TempControlA1="0" TempControlA2="0" TempControlA3="0" TempControlA4="0" TempControlA5="0" TempControlA6="0" TempControlA7="0" TempControlA8="0" />
+		<Board_111 TargetTempA1="  0" TargetTempA2="  0" TargetTempA3="  0" TargetTempA4="  0" TargetTempA5="  0" TargetTempA6="  0" TargetTempA7="  0" TargetTempA8="  0" />
+	</Board>
+	<Fiducial>
+		<FidUse Pcb="0" Blk="1" Local="1" />
+		<PcbFid X1="   5.000" Y1="   5.000" Mark1="  1" X2="  95.000" Y2=" 145.000" Mark2="  1" X3="   0.000" Y3="   0.000" Mark3="  0" Fid3="0" />
+		<BlkFid X1="   0.000" Y1="   0.000" Mark1="  1" X2="   0.000" Y2="   0.000" Mark2="  0" X3="   0.000" Y3="   0.000" Mark3="  0" Fid3="0" />
+	</Fiducial>
+	<BadMark>
+		<BadUse Pcb="1" Blk="1" Local="1" />
+		<PcbBad X="   0.000" Y="   0.000" Mark="  1" />
+		<BlkBad X="   0.000" Y="   0.000" Mark="  1" />
+	</BadMark>
+	<Offset>
+		<Repeat No="  1" X="   0.000" Y="   0.000" R="   0.000" Exec="0" Comment="" OrgBlk="  0" UnitNo="  0" />
+	</Offset>
+	<Mounts /><Programs>
+		<Program>
+			<Commands>
+			</Commands>
+			<LocalPoints>
+			</LocalPoints>
+			<Watches>
+			</Watches>
+		</Program>
+	</Programs>
+	<GlobalPoints>
+	</GlobalPoints>
+	<PreDispenses>
+	</PreDispenses>
+	<DotDispenses>
+	</DotDispenses>
+	<PosCorDispenses>
+	</PosCorDispenses>
+	<Parts /><Marks /><Heights>
+		<HeightUse Local="0" />
+	</Heights>
+	<CodeScan>
+		<CodeScanParam CheckCharCount="0" BeforehandAllCodeScan="0" />
+		<CodeScanUse Pcb="1" Blk="1" Local="1" />
+		<PcbCodeScan X1="   0.000" Y1="   0.000" Mark1="  0" X2="   0.000" Y2="   0.000" Mark2="  0" />
+		<BlkCodeScan X1="   0.000" Y1="   0.000" Mark1="  0" X2="   0.000" Y2="   0.000" Mark2="  0" />
+	</CodeScan>
+</Machine>
+</PcbDataFile>

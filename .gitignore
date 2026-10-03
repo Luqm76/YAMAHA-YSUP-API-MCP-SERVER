@@ -1,0 +1,11 @@
+__pycache__/
+data/
+validation/
+.venv/
+mcp_config.local.json
+dist/
+deliveries/
+.env
+.env.*
+*.sqlite3
+*.sqlite3-*

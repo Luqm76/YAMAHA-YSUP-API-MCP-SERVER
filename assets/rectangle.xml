@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Mark No="1">
+				<Mark_001 MarkName="CIRCLE_1.0_Cu" Comment="for_MNTCHIP_board" DatabaseNo="2" LibraryUse="0" LibraryFolder="0" LibraryPath="" />
+				<Mark_020 MarkType="1" Shape="1" Exec="0" OutSizeX="   1.250" OutSizeY="   0.750" />
+				<Mark_100 Surface="0" Threshold="130" Tolerance="30" SearchAreaX=" 4.00" SearchAreaY=" 4.00" Sequence="0" />
+				<Mark_200 LightingOuter="2" LightingInner="2" LightingDrop="2" LightingIROuter="0" LightingIRInner="0" FilterInner="3" FilterOuter="3" />
+			</Mark>
+		
